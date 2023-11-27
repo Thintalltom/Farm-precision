@@ -1,2 +1,2 @@
-# Farmers-Precsion
-An hackerthon where farmers get to know the best harvest time incorporation with an ai. it is a team work consisting of three team mates
+# Farmers-Precision
+This repository houses the pathway and information of the precison farming model that aids farmers to determine the harvesting time, and help make data-driven decision, which affects optimal crop yield.
